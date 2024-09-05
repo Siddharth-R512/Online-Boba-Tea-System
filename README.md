@@ -1,13 +1,12 @@
 # Online Boba Tea Ordering System
 
-The Online Boba Tea Ordering System is a Java-based application that allows users to order boba tea online. The system includes user authentication, menu browsing, order placement, and an admin dashboard for managing orders and inventory. The project is built using Java Swing in an MVC architecture, ensuring a clear separation between the application logic, user interface, and data.
+The Online Boba Tea Ordering System is a Java-based application that allows users to order boba tea online. The system includes user authentication, menu browsing and an order placement.The project is built using Java Swing in an MVC architecture, ensuring a clear separation between the application logic, user interface, and data.
 
 The main features include:
 - User login and registration
 - Viewing and selecting items from the boba tea menu
 - Customizing orders with different toppings and sizes
 - Order summary and checkout process
-- Admin dashboard for managing orders and menu items
 
 ## Project Structure
 The system follows an MVC (Model-View-Controller) architecture. Below are the key components:
@@ -37,10 +36,6 @@ The system follows an MVC (Model-View-Controller) architecture. Below are the ke
 - **Checkout Screen**: Displays the order summary and provides an option to proceed with the payment.
 
   ![Checkout Screen](path/to/checkout_screenshot.png)
-
-- **Admin Dashboard**: Accessible only to admins, this screen allows the management of orders and menu items.
-
-  ![Admin Dashboard](path/to/admin_dashboard_screenshot.png)
 
 ## Technologies Used
 - Java
