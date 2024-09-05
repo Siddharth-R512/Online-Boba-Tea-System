@@ -27,15 +27,15 @@ The system follows an MVC (Model-View-Controller) architecture. Below are the ke
 ## Usage
 - **Login Screen**: Users can log in or register if they are new. Upon successful login, the user will be redirected to the menu screen.
 
-  ![Login Screen](path/to/login_screenshot.png)
+  ![Login Screen](src/images/login_screen.png)
 
 - **Menu Screen**: Users can browse the menu, select items, customize their orders, and add them to the cart.
 
-  ![Menu Screen](path/to/menu_screenshot.png)
+  ![Menu Screen](src/images/dashboard_view.png)
 
 - **Checkout Screen**: Displays the order summary and provides an option to proceed with the payment.
 
-  ![Checkout Screen](path/to/checkout_screenshot.png)
+  ![Checkout Screen](src/images/checkout_screenshot.png)
 
 ## Technologies Used
 - Java
