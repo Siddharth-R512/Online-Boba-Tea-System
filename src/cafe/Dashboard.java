@@ -1261,7 +1261,7 @@ public class Dashboard extends javax.swing.JFrame {
         else if(t>800&&t<=1000){
             tax = 10.0;
         }
-        else if(t>100){
+        else if(t>1000){
             tax = 15.0;
         }
     }
