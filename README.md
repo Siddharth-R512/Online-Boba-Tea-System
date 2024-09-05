@@ -31,7 +31,7 @@ The system follows an MVC (Model-View-Controller) architecture. Below are the ke
 
 - **Menu Screen**: Users can browse the menu, select items, customize their orders, and add them to the cart.
 
-  ![Menu Screen](src/images/dashboard_view.png)
+  ![Menu Screen](src/images/dashboard_view2.png)
 
 - **Checkout Screen**: Displays the order summary and provides an option to proceed with the payment.
 
